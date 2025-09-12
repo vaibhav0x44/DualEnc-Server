@@ -18,7 +18,7 @@ TCP messages using Caesar Cipher
 
 UDP messages using ROT13
 
-Integrate steganography (from your previous project) to hide/encrypt data in image files
+Integrate steganography to hide/encrypt data in image files
 
 Handle multiple clients using threading
 
